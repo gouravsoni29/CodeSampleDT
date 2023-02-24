@@ -1,0 +1,28 @@
+{
+    "vehicle": [
+        {
+            "vin": "MAT123456MLB12345",
+            "wheel_1": "34 psi",
+            "wheel_3": "30 psi",
+            "right_head_light": "working",
+            "left_head_light": "working",
+            "number_plate": "KA 02J 1234",
+            "car_logo": "TATA",
+            "car_door": "Closed",
+            "mirror": "rear side mirror",
+            "ecu": [
+                {
+                    "id": 1,
+                    "partno": 123,
+                    "name": "DCU",
+                    "position_x":234,
+                    "position_y":300,
+                    "HW":{
+
+                    },
+                    "SW":""
+                }
+            ]
+        }
+    ]
+}
